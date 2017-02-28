@@ -262,4 +262,39 @@ LogInit: Object subsystem initialized
 [2017.02.28-12.18.19:827][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
 [2017.02.28-12.18.19:839][  0]LogCrashTracker: Crashtracker disabled due to settings.
 [2017.02.28-12.18.19:844][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.02.28-12.18.19:871][  0]LogContentBrowser: Native class hierarchy updated for '
+[2017.02.28-12.18.19:871][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.02.28-12.18.19:871][  0]LogLoad: (Engine Initialization) Total time: 6.39 seconds
+[2017.02.28-12.18.19:871][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.05 seconds
+[2017.02.28-12.18.19:871][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.28-12.18.19:871][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.28-12.18.19:880][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.28-12.18.19:880][  0]LogOcInput: OculusInput pre-init called
+[2017.02.28-12.18.19:904][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.28-12.18.20:058][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2017.02.28-12.18.20:115][  1]LogAssetRegistry: Asset discovery search completed in 3.2965 seconds
+[2017.02.28-12.18.20:115][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.02.28-12.18.20:115][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2017.02.28-12.19.56:639][417]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.28-12.21.24:890][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.28-12.21.30:500][347]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.28-12.21.35:996][987]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.28-12.22.01:968][779]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.28-12.22.03:220][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.28-12.22.04:581][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.28-12.28.20:819][798]LogSavePackage: Save=232.62ms
+[2017.02.28-12.28.20:819][798]LogSavePackage: Moving '../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Saved/Untitled_1_Auto19C06A31A40908ABA42ED8EAED3BDD754.tmp' to '../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2017.02.28-12.28.20:822][798]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2017.02.28-12.28.20:895][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.487
+[2017.02.28-12.28.20:895][798]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.487
+[2017.02.28-21.24.43:867][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap" FILE="../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Content/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.28-21.24.43:942][565]LogSavePackage: Save=39.04ms
+[2017.02.28-21.24.43:942][565]LogSavePackage: Moving '../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Saved/TestMap528BD8B34D5002A0C8A84BA14C702AD3.tmp' to '../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Content/TestMap.umap'
+[2017.02.28-21.24.43:969][565]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Content/TestMap.umap
+[2017.02.28-21.24.44:015][565]LogFileHelpers: Saving map 'TestMap' took 1.495
+[2017.02.28-21.34.41:371][979]SourceControl: Info On branch master
+[2017.02.28-21.34.41:371][979]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.02.28-21.34.41:371][979]SourceControl: Info nothing to commit, working tree clean
+[2017.02.28-21.34.47:231][316]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.28-21.34.49:892][584]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.28-21.34.55:226][881]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.02.28-21.34.58:696][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap" FILE="../../../../../../Users/Gamer/Documents/Unreal Projects/MyProject_test/Content/TestMap.umap" SILENT=true AUT
